@@ -8,7 +8,7 @@
  ## Svogimento:
 
 - Creazione di un ciclo for:
-  - creazione di una variabile;
+  - creazione di una variabile (i);
   - FINO A CHE "i" è maggiore o uguale a 100, il programma stamperà incrementando di una sola uinità;
     - SE il la variabile "i":
        - contiene un numero multiplo di 3 AND multiplo di 5: mando in stampa la stringa 'FizzBuzz';
