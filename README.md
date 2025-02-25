@@ -9,9 +9,9 @@
 
 - Creazione di un ciclo for:
   - creazione di una variabile (i);
-  - FINO A CHE "i" è maggiore o uguale a 100, il programma stamperà incrementando di una sola uinità;
-    - SE il la variabile "i":
-       - contiene un numero multiplo di 3 AND multiplo di 5: mando in stampa la stringa 'FizzBuzz';
-    - ALTRIMENTI SE il contenuto è multiplo di 3 mando in stampa 'Fizz';
-    - ALTRIMENTI SE il contenuto è multiplo di 5 mando in stampa 'Buzz';
-    - SE il contenuto di "ì" non è nè multiplo di 3, nè multiplo di 5, mando in stampa il suo valore numerico;
+  - FINO A CHE "i" è maggiore o uguale a 100, il programma stamperà il valore incrementandolo di una sola uinità;
+    - SE la variabile "i":
+       - contiene un numero multiplo di 3 & multiplo di 5: mando in stampa la stringa 'FizzBuzz';
+     - ALTRIMENTI SE il contenuto è multiplo di 3 mando in stampa 'Fizz';
+     - ALTRIMENTI SE il contenuto è multiplo di 5 mando in stampa 'Buzz';
+     - SE il contenuto di "ì" non è nè multiplo di 3, nè multiplo di 5, mando in stampa il suo valore numerico;
